@@ -10,9 +10,9 @@
 | Category | Assumption | Rationale | Citation |
 |--------|------------|-----------|-----------------|
 | Business model | Direct-to-consumer (D2C) | Common for premium pet brands | [softailed.com](https://softailed.com/blog/ecommerce-business-models), [McKinsey (2023)](https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-direct-to-customer-edge-increasing-shareholder-value-through-business-building)|
-| Product | Single core product: premium long-lasting dog dental chews | Many premium D2C brands focus on one hero SKU | Devil Dog Pet Co. blog |
-| Geography | Germany only | Typical early D2C logistics scope | Statista (Germany e-commerce) |
-| Time horizon | 12 months | Standard analytical window | Industry practice |
+| Product | Single core product: premium long-lasting dog dental chews | Focus on a single hero product | [1800d2c.com ](https://www.1800d2c.com/resources/guide-to-profitable-e-commerce-niches-2025), [devildogpetco.com](https://devildogpetco.com/blogs/the-devil-dog-blog/long-lasting-dog-chews?srsltid=AfmBOooCOEDVsSAgM2n577lqZsjmUQxPsjw6_iU-EiqnMhfbbjEzF5Ih)|
+| Geography | Germany | Germany's e-commerce growth rate | [ecommercegermany.com](https://ecommercegermany.com/blog/ecommerce-growth-germany/)|
+| Time horizon | 12 months (daily data) | Sufficient sample size (n = 365) for BLUE (Best Linear Unbiased Estimation) estimation | Wooldridge, J. M. (2016). Introductory econometrics a modern approach. South-Western cengage learning. |
 
 ---
 
