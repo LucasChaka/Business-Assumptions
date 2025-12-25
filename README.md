@@ -20,7 +20,7 @@
 
 | Category | Assumption | Rationale | Citation Anchor |
 |--------|------------|-----------|-----------------|
-| Product durability | Chews last 7–21 days depending on dog size | Designed for extended use | Devil Dog Pet Co. blog |
+| Product durability | Chews last 1–3 weeks depending on dog size | Designed for extended use | [devildogpetco.com](https://devildogpetco.com/blogs/the-devil-dog-blog/long-lasting-dog-chews?srsltid=AfmBOooCOEDVsSAgM2n577lqZsjmUQxPsjw6_iU-EiqnMhfbbjEzF5Ih) |
 | Consumption rate | 1 pack ≈ 2–4 weeks | Not a daily consumable | Pet industry benchmarks |
 | Reorder behavior | Reorders are infrequent but plausible | Consumable but slow-moving | Shopify pet category benchmarks |
 | Subscription model | No subscription assumed | Many premium chew brands sell one-off purchases | D2C pet brand patterns |
