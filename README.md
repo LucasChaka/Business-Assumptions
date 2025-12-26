@@ -10,7 +10,7 @@
 | Category | Assumption | Rationale | Citation |
 |--------|------------|-----------|-----------------|
 | Business model | Direct-to-consumer (D2C) | Common for premium pet brands | [softailed.com](https://softailed.com/blog/ecommerce-business-models), [McKinsey (2023)](https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-direct-to-customer-edge-increasing-shareholder-value-through-business-building)|
-| Product | Single core product: premium long-lasting dog dental chews | Focus on a single hero product | [1800d2c.com ](https://www.1800d2c.com/resources/guide-to-profitable-e-commerce-niches-2025), [devildogpetco.com](https://devildogpetco.com/blogs/the-devil-dog-blog/long-lasting-dog-chews?srsltid=AfmBOooCOEDVsSAgM2n577lqZsjmUQxPsjw6_iU-EiqnMhfbbjEzF5Ih)|
+| Product | Single core product: premium long-lasting dog dental chews (Coffee wood chew stick) | Focus on a single hero product | [1800d2c.com ](https://www.1800d2c.com/resources/guide-to-profitable-e-commerce-niches-2025), [devildogpetco.com](https://devildogpetco.com/blogs/the-devil-dog-blog/long-lasting-dog-chews?srsltid=AfmBOooCOEDVsSAgM2n577lqZsjmUQxPsjw6_iU-EiqnMhfbbjEzF5Ih), [chewies.de](https://www.chewies.de/en/kauartikel/kaffeeholz/#)|
 | Geography | Germany | Germany's e-commerce growth rate | [ecommercegermany.com](https://ecommercegermany.com/blog/ecommerce-growth-germany/)|
 | Time horizon | 12 months (daily data) | Sufficient sample size (n = 365) for BLUE (Best Linear Unbiased Estimation) estimation | Wooldridge, J. M. (2016). Introductory econometrics a modern approach. South-Western cengage learning. |
 
@@ -20,12 +20,11 @@
 
 | Category | Assumption | Rationale | Citation Anchor |
 |--------|------------|-----------|-----------------|
-| Product durability | Chews last 1–3 weeks depending on dog size | Designed for extended use | [devildogpetco.com](https://devildogpetco.com/blogs/the-devil-dog-blog/long-lasting-dog-chews?srsltid=AfmBOooCOEDVsSAgM2n577lqZsjmUQxPsjw6_iU-EiqnMhfbbjEzF5Ih) |
-| Consumption rate | 1 pack ≈ 2–4 weeks | Not a daily consumable | Pet industry benchmarks |
-| Reorder behavior | Reorders are infrequent but plausible | Consumable but slow-moving | Shopify pet category benchmarks |
-| Subscription model | No subscription assumed | Many premium chew brands sell one-off purchases | D2C pet brand patterns |
+| Product durability | Chews last several days to multiple weeks depending on dog size & biteforce | Designed for extended use | [chewies.de](https://www.chewies.de/en/kauartikel/kaffeeholz/#) |
+| Reorder behavior | Reorders are infrequent yet plausible | Usage guidance suggests replacement after wear  | [chewies.de](https://www.chewies.de/en/kauartikel/kaffeeholz/#) |
+| Revenue model | One-off purchases (no mandatory subscription) | Product is offered as an individual item rather than a fixed subscription | [chewies.de](https://www.chewies.de/en/kauartikel/kaffeeholz/#) |
 
-**Implication for cohorts:**  
+**Note:**  
 Low repeat rate ≠ bad business. Value unfolds slowly.
 
 ---
@@ -34,10 +33,10 @@ Low repeat rate ≠ bad business. Value unfolds slowly.
 
 | Category | Assumption | Rationale | Citation Anchor |
 |--------|------------|-----------|-----------------|
-| Base price | €24.99 per pack | Typical premium chew pricing | Statista, D2C pet pricing |
-| Discount usage | 25–40% of orders | Promotions common in D2C | Shopify Commerce Trends |
-| Discount size | 10–20% | Industry standard | Baymard Institute |
-| Campaign periods | Seasonal (e.g. Black Friday) | Common across D2C | Shopify reports |
+| Base price | €12.79 per stick (Size M) | Typical premium coffee chew pricing (Size M) | [petsnature.de](https://www.petsnature.de/hunde/chewies/chewies-kaffeeholz-kaustab/042121?_gl=1%2Azi3qil%2A_gcl_au%2AMTk2MDI5NjYxNi4xNzY2NzQ1ODc5) |
+| Discount usage | 25–40% of orders | Promotions common in D2C | There is no publicly available data due to data protection sensititvy. |
+| Discount size | 10–30% | Industry standard | [opensend.com](https://www.opensend.com/post/average-discount-rate-statistics-ecommerce),  |
+| Campaign periods | Seasonal (e.g. Black Friday) | Common across D2C | [Discounts in the city of Munich](https://www.muenchen.de/en/shopping/sale-seasons-munich-when-find-best-bargains) |
 
 ---
 
@@ -53,11 +52,11 @@ Low repeat rate ≠ bad business. Value unfolds slowly.
 
 ## 5. Customer Identity & Data
 
-| Category | Assumption | Rationale | Citation Anchor |
-|--------|------------|-----------|-----------------|
-| Customer ID | Unique anonymized ID | GDPR-compliant analytics | Stripe / Shopify docs |
-| Tracking | Orders linked to customers | Standard D2C analytics | Shopify analytics model |
-| No PII | No raw payment data stored | Legal necessity | GDPR |
+| Category | Assumption | Rationale | 
+|--------|------------|-----------|
+| Customer ID | Unique anonymized ID | GDPR-compliant analytics |
+| Tracking | Orders linked to customers | Standard D2C analytics |
+| No PII | No raw payment data stored | Legal necessity | 
 
 ---
 
@@ -108,5 +107,5 @@ Low repeat rate ≠ bad business. Value unfolds slowly.
 |--------|------------|-----------|-----------------|
 | COGS | €6–8 per pack | Premium chew production | Pet industry estimates |
 | Fulfillment | €2 per order | Standard pick & pack | Shopify unit economics |
-| Shipping cost | ~€4 per order | Carrier benchmarks | DHL / DPD |
+| Shipping cost | ~€5.50 per order | Carrier benchmarks | DHL / DPD |
 | Refund cost | Revenue + shipping loss | True margin impact | McKinsey |
