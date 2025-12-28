@@ -21,7 +21,7 @@
 | Category | Assumption | Rationale | Citation Anchor |
 |--------|------------|-----------|-----------------|
 | Product durability | Chews last several days to multiple weeks depending on dog size & biteforce | Designed for extended use | [chewies.de](https://www.chewies.de/en/kauartikel/kaffeeholz/#) |
-| Reorder behavior | Reorders are infrequent yet plausible | Usage guidance suggests replacement after wear  | [chewies.de](https://www.chewies.de/en/kauartikel/kaffeeholz/#) |
+| Reorder behavior | Conservative assumption: Reorders are infrequent yet plausible | Usage guidance suggests replacement after wear  | [chewies.de](https://www.chewies.de/en/kauartikel/kaffeeholz/#) |
 | Revenue model | One-off purchases (no mandatory subscription) | Product is offered as an individual item rather than a fixed subscription | [chewies.de](https://www.chewies.de/en/kauartikel/kaffeeholz/#) |
 
 **Note:**  
@@ -44,9 +44,8 @@ Low repeat rate ≠ bad business. Value unfolds slowly.
 
 | Category | Assumption | Rationale | Citation Anchor |
 |--------|------------|-----------|-----------------|
-| Channels | Paid Social, Paid Search, Organic, Referral | Canonical D2C mix | McKinsey, Shopify |
-| Channel quality | Paid Social lower quality than Organic | Well-documented behavior | McKinsey (Performance Marketing) |
-| Growth | Gradual monthly growth | Realistic D2C scaling | Shopify benchmarks |
+| Channels | Paid Social, Paid Search, Organic, Referral | Canonical D2C mix | - |
+| Growth | Gradual customer growth with mid-period slowdown | D2C growth often slows as operational and logistics constraints emerge | [6wresearch.com](https://www.6wresearch.com/industry-report/germany-d2c-market-2021-2027), [](https://www.projectionhub.com/post/direct-to-consumer-d2c-product-startup-revenue-stats-2022) |
 
 ---
 
@@ -64,10 +63,14 @@ Low repeat rate ≠ bad business. Value unfolds slowly.
 
 | Category | Assumption | Rationale | Citation Anchor |
 |--------|------------|-----------|-----------------|
-| First purchase | Every customer has one first order | Simplifies cohort definition | Analytical convention |
-| Quantity | 70% buy 1 pack, 25% buy 2 packs | Bundling common in pet D2C | Shopify pet benchmarks |
-| Repeat rate | 20–30% within 12 months | Plausible for long-lasting chews | Pet consumables data |
-| Repeat timing | 30–60 days | Matches chew longevity | Devil Dog Pet Co. blog |
+| First purchase | Every customer has one first order | Simplifies assmptions | - |
+| Quantity | Majority single-pack orders with a minority of multi-pack purchases | Bundling strategy common in online retails | [shopify.com](https://www.shopify.com/blog/average-order-value) |
+| Repeat rate | 20–30% within 12 months | Plausible for long-lasting chews | [Sobot.io](https://www.sobot.io/article/how-to-calculate-repeat-purchase-rate-ecommerce-guide/?utm_source=chatgpt.com), [mobiloud.com](https://www.mobiloud.com/blog/repeat-customer-rate-ecommerce?utm_source=chatgpt.com) |
+| Repeat timing |Reorders typically occur weeks after first purchase (modeled as 30–60 days) | Long-lasting chews are used over multiple weeks, with replacement driven by product wear | - |
+
+**Note:**  
+- Since the 
+
 
 ---
 
