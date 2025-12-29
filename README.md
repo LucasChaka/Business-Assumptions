@@ -68,9 +68,6 @@ Low repeat rate ≠ bad business. Value unfolds slowly.
 | Repeat rate | 20–30% within 12 months | Plausible for long-lasting chews | [Sobot.io](https://www.sobot.io/article/how-to-calculate-repeat-purchase-rate-ecommerce-guide/?utm_source=chatgpt.com), [mobiloud.com](https://www.mobiloud.com/blog/repeat-customer-rate-ecommerce?utm_source=chatgpt.com) |
 | Repeat timing |Reorders typically occur weeks after first purchase (modeled as 30–60 days) | Long-lasting chews are used over multiple weeks, with replacement driven by product wear | - |
 
-**Note:**  
-- Since the 
-
 
 ---
 
@@ -78,8 +75,9 @@ Low repeat rate ≠ bad business. Value unfolds slowly.
 
 | Category | Assumption | Rationale | Citation Anchor |
 |--------|------------|-----------|-----------------|
-| Payment mix | PayPal, Klarna, Cards, Wallets | German consumer preference | Statista Germany payments |
-| Processing fees | 2–4% per transaction | Public fee schedules | Stripe, PayPal |
+| Payment mix | PayPal, Klarna (BNPL), Credit/Debit Cards, SEPA/Invoice, Digital Wallets | Commonly used payment methods in German e-commerce | [stripe.com](https://stripe.com/resources/more/payment-methods-germany) |
+| Processing fees |  ~1.5–3% + fixed fee per transaction | Typical merchant fee range published by payment providers | [stripe.com](https://stripe.com/pricing) , [stripe.com](https://www.mollie.com/growth/card-payment-fees-merchants) |
+
 
 ---
 
@@ -87,10 +85,9 @@ Low repeat rate ≠ bad business. Value unfolds slowly.
 
 | Category | Assumption | Rationale | Citation Anchor |
 |--------|------------|-----------|-----------------|
-| Normal delivery | 1–3 days | Standard expectation | DHL / Statista |
-| Logistics issue | Carrier change after Month 6 | Common scaling issue | McKinsey logistics |
-| Delay increase | Months 7–9 | Transitional instability | Metapack benchmarks |
-| Failed delivery | Rare but non-zero | Realistic failure rate | Industry logistics reports |
+| Normal delivery | 1–3 days | Standard expectation | [DHL](https://www.dhl.de/de/privatkunden.html) |
+| Delay increase | ~10% probability of delay | Last mile transitional instability | [parcelperform.com](https://www.parcelperform.com/insights/germany-delivery-performance-q2-2025?utm_source=chatgpt.com) |
+| Failed delivery | Low but not zero | Realistic failure rate | [parcelperform.com](https://www.parcelperform.com/insights/germany-delivery-performance-q2-2025?utm_source=chatgpt.com) |
 
 ---
 
