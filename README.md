@@ -95,17 +95,62 @@ Low repeat rate ≠ bad business. Value unfolds slowly.
 
 | Category | Assumption | Rationale | Citation Anchor |
 |--------|------------|-----------|-----------------|
-| Base refund rate | 2–4% | Typical for consumables | Statista |
-| Delay-driven refunds | Higher with delays | Strong empirical link | Narvar Returns Report |
-| Failed delivery | Refund almost certain | Industry norm | Narvar |
+| Base refund rate | 5% | For pet products in Germany in 2024 | [Statista](https://de.statista.com/prognosen/999860/deutschland-ruecksendung-von-online-bestellungen/) |
+| Delivery-related refunds | Refunds increase in cases of delays, failed deliveries, or fulfillment errors | Delivery issues are a common driver of customer-initiated refunds | [omniaretail](https://www.omniaretail.com/knowledge/return-reasons) |
 
 ---
 
-## 10. Cost Structure (Simplified)
+## 10. Cost Structure (Simplified Assumptions)
 
-| Category | Assumption | Rationale | Citation Anchor |
-|--------|------------|-----------|-----------------|
-| COGS | €6–8 per pack | Premium chew production | Pet industry estimates |
-| Fulfillment | €2 per order | Standard pick & pack | Shopify unit economics |
-| Shipping cost | ~€5.50 per order | Carrier benchmarks | DHL / DPD |
-| Refund cost | Revenue + shipping loss | True margin impact | McKinsey |
+
+Retail Price
+€12.79
+    
+    COGS (Product Acquisition)
+{
+  Wholesale purchase from supplier         €4.50
+  Packaging & labeling                     €0.80
+}
+                                         = €5.30
+
+    Fulfillment & Logistics
+{
+  Warehousing / 3PL handling               €1.50
+  Shipping (Germany domestic)              €3.50
+}
+                                         = €5.00
+  
+    Payment & Platform Costs
+{
+  Payment processing fees (~2.5%)          €0.35
+  Fixed transaction fee                    €0.30
+}
+                                         = €0.65
+  
+    Expected Refund & Loss Provision
+{
+  Refund probability (5%) × unit revenue   €0.64
+}
+
+-----------------------------------------
+Total Estimated Cost per Unit            = €11.59
+-----------------------------------------
+
+Estimated Contribution Margin            + €1.20
+-----------------------------------------
+Retail Price                             = €12.79
+
+
+### Pricing & Costing Assumptions
+
+- **Pricing strategy:** Cost-plus pricing  
+- **Seller perspective:** Retailer estimates product acquisition, fulfillment, and payment costs ex-ante  
+- **Refunds:** Modeled as an expected value, not a realized per-order cost  
+
+**Note:**  
+Delivery fees are applied externally at checkout (e.g. ~€5 for single orders).  
+Shipping cost per unit may decrease with higher basket sizes due to cost spreading.
+
+
+
+
