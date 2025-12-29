@@ -100,46 +100,37 @@ Low repeat rate ≠ bad business. Value unfolds slowly.
 
 ---
 
-## 10. Cost Structure (Simplified Assumptions)
+## 10. Cost Structure (Simplified Assumptions: Unit Economics, per Order)
 
 
-Retail Price
-€12.79
-    
-    COGS (Product Acquisition)
-{
-  Wholesale purchase from supplier         €4.50
-  Packaging & labeling                     €0.80
-}
-                                         = €5.30
+**Retail Price:** €12.79
 
-    Fulfillment & Logistics
-{
-  Warehousing / 3PL handling               €1.50
-  Shipping (Germany domestic)              €3.50
-}
-                                         = €5.00
-  
-    Payment & Platform Costs
-{
-  Payment processing fees (~2.5%)          €0.35
-  Fixed transaction fee                    €0.30
-}
-                                         = €0.65
-  
-    Expected Refund & Loss Provision
-{
-  Refund probability (5%) × unit revenue   €0.64
-}
+### Cost Breakdown
 
------------------------------------------
-Total Estimated Cost per Unit            = €11.59
------------------------------------------
+| Cost Category | Component | Cost (€) |
+|-------------|----------|---------|
+| **COGS (Product Acquisition)** | Wholesale purchase from supplier | 4.50 |
+|  | Packaging & labeling | 0.80 |
+|  | **Subtotal COGS** | **5.30** |
+| **Fulfillment & Logistics** | Warehousing / 3PL handling | 1.50 |
+|  | Domestic shipping (Germany) | 3.50 |
+|  | **Subtotal Fulfillment** | **5.00** |
+| **Payment & Platform Costs** | Payment processing (~2.5%) | 0.35 |
+|  | Fixed transaction fee | 0.30 |
+|  | **Subtotal Payments** | **0.65** |
+| **Refund & Loss Provision** | Expected refund cost (5% × revenue) | 0.64 |
+|  | **Subtotal Refunds** | **0.64** |
+| **—** | **Total Estimated Cost per Unit** | **11.59** |
 
-Estimated Contribution Margin            + €1.20
------------------------------------------
-Retail Price                             = €12.79
+---
 
+### Contribution Margin
+
+| Metric | Value (€) |
+|------|----------|
+| Retail price | 12.79 |
+| Total cost per unit | 11.59 |
+| **Estimated contribution margin** | **1.20** |
 
 ### Pricing & Costing Assumptions
 
